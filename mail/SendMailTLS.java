@@ -17,7 +17,7 @@ import javax.mail.internet.MimeMultipart;
 
 /**
  * 
- * @author jcastilla <jordi.castilla@atos.net> 
+ * @author jcastilla <bcnyorch@gmail.com> 
  * @version 0.1
  * @since 2016/02/08
  * 
